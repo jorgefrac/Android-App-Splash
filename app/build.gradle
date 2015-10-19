@@ -22,5 +22,6 @@ android {
 dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs')
     compile 'com.android.support:appcompat-v7:23.0.1'
+    //Libraries
     compile files('libs/nineoldandroids-2.4.0.jar')
 }

@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/splashScreen"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/primary_dark"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    tools:context=".MainActivity">
 
 
     <ImageView
@@ -25,6 +27,6 @@
         android:textColor="#fff"
         android:layout_centerVertical="true"
         android:layout_alignLeft="@+id/imageView"
-        android:layout_alignStart="@+id/imageView" />
+        android:layout_alignStart="@+id/imageView" />-
 
 </RelativeLayout>

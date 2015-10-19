@@ -6,6 +6,10 @@
     <color name="accent_translucent">#80bebebe</color>
     <color name="accent_bright">#FFF493</color>
 
+    <color name="fragment1">#F36A71</color>
+    <color name="fragment2">#358ebc</color>
+    <color name="fragment3">#af7ac4</color>
     <color name="text_selected">#888</color>
-    <color name="transparent_bg">#fff</color>
+    <color name="white">#fff</color>
+
 </resources>

@@ -1,15 +1,15 @@
 <resources>
-    <string name="app_name">Android-App-Splash</string>
+    <string name="app_name">Splash Screen</string>
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_splash_screen">SplashScreen</string>
     <string name="title_activity_welcome_screen">WelcomeScreen</string>
 
-    <string name="screen1_title">Unlimited Calls For You</string>
-    <string name="screen1_desc">Call your friends, family, Relatives free of cost anytime anywhere.</string>
-    <string name="screen2_title">Group Conversations</string>
-    <string name="screen2_desc">Create your own own group and share Photos, Videos etc. </string>
-    <string name="screen3_title">Synchronize with your laptop</string>
-    <string name="screen3_desc">Get notified with your calls and messages to your laptop</string>
+    <string name="screen1_title">Llamadas Ilimitadas para usted</string>
+    <string name="screen1_desc">Llama a tus amigos, familiares, parientes de forma gratuita en cualquier momento en cualquier lugar.</string>
+    <string name="screen2_title">Conversaciones en grupo</string>
+    <string name="screen2_desc">Crea tu propia propio grupo y compartir fotos, videos, etc. </string>
+    <string name="screen3_title">Sincronizar con su ordenador portátil</string>
+    <string name="screen3_desc">¡Entérate con sus llamadas y mensajes a su ordenador portátil</string>
 </resources>

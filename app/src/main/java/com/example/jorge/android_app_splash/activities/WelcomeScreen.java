@@ -143,7 +143,7 @@ public class WelcomeScreen extends AppCompatActivity {
                 if (i == index) {
                     circle.setColorFilter(getResources().getColor(R.color.text_selected));
                 } else {
-                    circle.setColorFilter(getResources().getColor(R.color.transparent_bg));
+                    circle.setColorFilter(getResources().getColor(R.color.white));
                 }
             }
         }
